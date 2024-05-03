@@ -1,0 +1,7 @@
+\\Mac\Home\Documents\GitHub\CS-.NET-Course\Math Challenge\Math Challenge\bin\Debug\Math Challenge.exe.config
+\\Mac\Home\Documents\GitHub\CS-.NET-Course\Math Challenge\Math Challenge\bin\Debug\Math Challenge.exe
+\\Mac\Home\Documents\GitHub\CS-.NET-Course\Math Challenge\Math Challenge\bin\Debug\Math Challenge.pdb
+\\Mac\Home\Documents\GitHub\CS-.NET-Course\Math Challenge\Math Challenge\obj\Debug\Math Challenge.csproj.AssemblyReference.cache
+\\Mac\Home\Documents\GitHub\CS-.NET-Course\Math Challenge\Math Challenge\obj\Debug\Math Challenge.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\GitHub\CS-.NET-Course\Math Challenge\Math Challenge\obj\Debug\Math Challenge.exe
+\\Mac\Home\Documents\GitHub\CS-.NET-Course\Math Challenge\Math Challenge\obj\Debug\Math Challenge.pdb

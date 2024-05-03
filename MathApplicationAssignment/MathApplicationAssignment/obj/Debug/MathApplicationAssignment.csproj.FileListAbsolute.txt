@@ -1,0 +1,7 @@
+\\Mac\Home\Documents\GitHub\CS-.NET-Course\MathApplicationAssignment\MathApplicationAssignment\obj\Debug\MathApplicationAssignment.csproj.AssemblyReference.cache
+\\Mac\Home\Documents\GitHub\CS-.NET-Course\MathApplicationAssignment\MathApplicationAssignment\obj\Debug\MathApplicationAssignment.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\GitHub\CS-.NET-Course\MathApplicationAssignment\MathApplicationAssignment\bin\Debug\MathApplicationAssignment.exe.config
+\\Mac\Home\Documents\GitHub\CS-.NET-Course\MathApplicationAssignment\MathApplicationAssignment\bin\Debug\MathApplicationAssignment.exe
+\\Mac\Home\Documents\GitHub\CS-.NET-Course\MathApplicationAssignment\MathApplicationAssignment\bin\Debug\MathApplicationAssignment.pdb
+\\Mac\Home\Documents\GitHub\CS-.NET-Course\MathApplicationAssignment\MathApplicationAssignment\obj\Debug\MathApplicationAssignment.exe
+\\Mac\Home\Documents\GitHub\CS-.NET-Course\MathApplicationAssignment\MathApplicationAssignment\obj\Debug\MathApplicationAssignment.pdb
