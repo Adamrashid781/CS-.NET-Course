@@ -1,0 +1,7 @@
+\\Mac\Home\Documents\GitHub\CS-.NET-Course\MathAndComparisonOperatorAssignment\MathAndComparisonOperatorAssignment\bin\Debug\MathAndComparisonOperatorAssignment.exe.config
+\\Mac\Home\Documents\GitHub\CS-.NET-Course\MathAndComparisonOperatorAssignment\MathAndComparisonOperatorAssignment\bin\Debug\MathAndComparisonOperatorAssignment.exe
+\\Mac\Home\Documents\GitHub\CS-.NET-Course\MathAndComparisonOperatorAssignment\MathAndComparisonOperatorAssignment\bin\Debug\MathAndComparisonOperatorAssignment.pdb
+\\Mac\Home\Documents\GitHub\CS-.NET-Course\MathAndComparisonOperatorAssignment\MathAndComparisonOperatorAssignment\obj\Debug\MathAndComparisonOperatorAssignment.csproj.AssemblyReference.cache
+\\Mac\Home\Documents\GitHub\CS-.NET-Course\MathAndComparisonOperatorAssignment\MathAndComparisonOperatorAssignment\obj\Debug\MathAndComparisonOperatorAssignment.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\GitHub\CS-.NET-Course\MathAndComparisonOperatorAssignment\MathAndComparisonOperatorAssignment\obj\Debug\MathAndComparisonOperatorAssignment.exe
+\\Mac\Home\Documents\GitHub\CS-.NET-Course\MathAndComparisonOperatorAssignment\MathAndComparisonOperatorAssignment\obj\Debug\MathAndComparisonOperatorAssignment.pdb
