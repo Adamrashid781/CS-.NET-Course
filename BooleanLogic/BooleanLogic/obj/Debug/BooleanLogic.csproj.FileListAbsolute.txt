@@ -1,0 +1,7 @@
+\\mac\home\Documents\GitHub\CS-.NET-Course\BooleanLogic\BooleanLogic\bin\Debug\BooleanLogic.exe.config
+\\mac\home\Documents\GitHub\CS-.NET-Course\BooleanLogic\BooleanLogic\bin\Debug\BooleanLogic.exe
+\\mac\home\Documents\GitHub\CS-.NET-Course\BooleanLogic\BooleanLogic\bin\Debug\BooleanLogic.pdb
+\\mac\home\Documents\GitHub\CS-.NET-Course\BooleanLogic\BooleanLogic\obj\Debug\BooleanLogic.csproj.AssemblyReference.cache
+\\mac\home\Documents\GitHub\CS-.NET-Course\BooleanLogic\BooleanLogic\obj\Debug\BooleanLogic.csproj.CoreCompileInputs.cache
+\\mac\home\Documents\GitHub\CS-.NET-Course\BooleanLogic\BooleanLogic\obj\Debug\BooleanLogic.exe
+\\mac\home\Documents\GitHub\CS-.NET-Course\BooleanLogic\BooleanLogic\obj\Debug\BooleanLogic.pdb
