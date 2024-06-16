@@ -1,0 +1,7 @@
+\\mac\home\Documents\GitHub\CS-.NET-Course\BranchingAssignment\BranchingAssignment\bin\Debug\BranchingAssignment.exe.config
+\\mac\home\Documents\GitHub\CS-.NET-Course\BranchingAssignment\BranchingAssignment\bin\Debug\BranchingAssignment.exe
+\\mac\home\Documents\GitHub\CS-.NET-Course\BranchingAssignment\BranchingAssignment\bin\Debug\BranchingAssignment.pdb
+\\mac\home\Documents\GitHub\CS-.NET-Course\BranchingAssignment\BranchingAssignment\obj\Debug\BranchingAssignment.csproj.AssemblyReference.cache
+\\mac\home\Documents\GitHub\CS-.NET-Course\BranchingAssignment\BranchingAssignment\obj\Debug\BranchingAssignment.csproj.CoreCompileInputs.cache
+\\mac\home\Documents\GitHub\CS-.NET-Course\BranchingAssignment\BranchingAssignment\obj\Debug\BranchingAssignment.exe
+\\mac\home\Documents\GitHub\CS-.NET-Course\BranchingAssignment\BranchingAssignment\obj\Debug\BranchingAssignment.pdb

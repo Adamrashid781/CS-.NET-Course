@@ -1,0 +1,7 @@
+\\mac\home\Documents\GitHub\CS-.NET-Course\IfChallenges\IfChallenges\bin\Debug\IfChallenges.exe.config
+\\mac\home\Documents\GitHub\CS-.NET-Course\IfChallenges\IfChallenges\bin\Debug\IfChallenges.exe
+\\mac\home\Documents\GitHub\CS-.NET-Course\IfChallenges\IfChallenges\bin\Debug\IfChallenges.pdb
+\\mac\home\Documents\GitHub\CS-.NET-Course\IfChallenges\IfChallenges\obj\Debug\IfChallenges.csproj.AssemblyReference.cache
+\\mac\home\Documents\GitHub\CS-.NET-Course\IfChallenges\IfChallenges\obj\Debug\IfChallenges.csproj.CoreCompileInputs.cache
+\\mac\home\Documents\GitHub\CS-.NET-Course\IfChallenges\IfChallenges\obj\Debug\IfChallenges.exe
+\\mac\home\Documents\GitHub\CS-.NET-Course\IfChallenges\IfChallenges\obj\Debug\IfChallenges.pdb
