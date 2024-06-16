@@ -1,0 +1,7 @@
+\\mac\home\Documents\GitHub\CS-.NET-Course\Creating_A_Switch\Creating_A_Switch\bin\Debug\Creating_A_Switch.exe.config
+\\mac\home\Documents\GitHub\CS-.NET-Course\Creating_A_Switch\Creating_A_Switch\bin\Debug\Creating_A_Switch.exe
+\\mac\home\Documents\GitHub\CS-.NET-Course\Creating_A_Switch\Creating_A_Switch\bin\Debug\Creating_A_Switch.pdb
+\\mac\home\Documents\GitHub\CS-.NET-Course\Creating_A_Switch\Creating_A_Switch\obj\Debug\Creating_A_Switch.csproj.AssemblyReference.cache
+\\mac\home\Documents\GitHub\CS-.NET-Course\Creating_A_Switch\Creating_A_Switch\obj\Debug\Creating_A_Switch.csproj.CoreCompileInputs.cache
+\\mac\home\Documents\GitHub\CS-.NET-Course\Creating_A_Switch\Creating_A_Switch\obj\Debug\Creating_A_Switch.exe
+\\mac\home\Documents\GitHub\CS-.NET-Course\Creating_A_Switch\Creating_A_Switch\obj\Debug\Creating_A_Switch.pdb

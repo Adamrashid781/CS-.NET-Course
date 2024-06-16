@@ -1,0 +1,7 @@
+\\mac\home\Documents\GitHub\CS-.NET-Course\Loops\Loops\bin\Debug\Loops.exe.config
+\\mac\home\Documents\GitHub\CS-.NET-Course\Loops\Loops\bin\Debug\Loops.exe
+\\mac\home\Documents\GitHub\CS-.NET-Course\Loops\Loops\bin\Debug\Loops.pdb
+\\mac\home\Documents\GitHub\CS-.NET-Course\Loops\Loops\obj\Debug\Loops.csproj.AssemblyReference.cache
+\\mac\home\Documents\GitHub\CS-.NET-Course\Loops\Loops\obj\Debug\Loops.csproj.CoreCompileInputs.cache
+\\mac\home\Documents\GitHub\CS-.NET-Course\Loops\Loops\obj\Debug\Loops.exe
+\\mac\home\Documents\GitHub\CS-.NET-Course\Loops\Loops\obj\Debug\Loops.pdb
