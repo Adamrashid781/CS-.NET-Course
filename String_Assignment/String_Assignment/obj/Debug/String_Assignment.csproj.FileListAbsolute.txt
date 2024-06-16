@@ -1,0 +1,7 @@
+\\mac\home\Documents\GitHub\CS-.NET-Course\String_Assignment\String_Assignment\bin\Debug\String_Assignment.exe.config
+\\mac\home\Documents\GitHub\CS-.NET-Course\String_Assignment\String_Assignment\bin\Debug\String_Assignment.exe
+\\mac\home\Documents\GitHub\CS-.NET-Course\String_Assignment\String_Assignment\bin\Debug\String_Assignment.pdb
+\\mac\home\Documents\GitHub\CS-.NET-Course\String_Assignment\String_Assignment\obj\Debug\String_Assignment.csproj.CoreCompileInputs.cache
+\\mac\home\Documents\GitHub\CS-.NET-Course\String_Assignment\String_Assignment\obj\Debug\String_Assignment.exe
+\\mac\home\Documents\GitHub\CS-.NET-Course\String_Assignment\String_Assignment\obj\Debug\String_Assignment.pdb
+\\mac\home\Documents\GitHub\CS-.NET-Course\String_Assignment\String_Assignment\obj\Debug\String_Assignment.csproj.AssemblyReference.cache
