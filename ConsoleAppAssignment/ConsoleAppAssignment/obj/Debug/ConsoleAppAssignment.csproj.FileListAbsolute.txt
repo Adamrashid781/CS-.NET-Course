@@ -1,0 +1,7 @@
+\\mac\home\Documents\GitHub\CS-.NET-Course\ConsoleAppAssignment\ConsoleAppAssignment\bin\Debug\ConsoleAppAssignment.exe.config
+\\mac\home\Documents\GitHub\CS-.NET-Course\ConsoleAppAssignment\ConsoleAppAssignment\bin\Debug\ConsoleAppAssignment.exe
+\\mac\home\Documents\GitHub\CS-.NET-Course\ConsoleAppAssignment\ConsoleAppAssignment\bin\Debug\ConsoleAppAssignment.pdb
+\\mac\home\Documents\GitHub\CS-.NET-Course\ConsoleAppAssignment\ConsoleAppAssignment\obj\Debug\ConsoleAppAssignment.csproj.AssemblyReference.cache
+\\mac\home\Documents\GitHub\CS-.NET-Course\ConsoleAppAssignment\ConsoleAppAssignment\obj\Debug\ConsoleAppAssignment.csproj.CoreCompileInputs.cache
+\\mac\home\Documents\GitHub\CS-.NET-Course\ConsoleAppAssignment\ConsoleAppAssignment\obj\Debug\ConsoleAppAssignment.exe
+\\mac\home\Documents\GitHub\CS-.NET-Course\ConsoleAppAssignment\ConsoleAppAssignment\obj\Debug\ConsoleAppAssignment.pdb

@@ -1,0 +1,7 @@
+\\mac\home\Documents\GitHub\CS-.NET-Course\Iteration\Iteration\bin\Debug\Iteration.exe.config
+\\mac\home\Documents\GitHub\CS-.NET-Course\Iteration\Iteration\bin\Debug\Iteration.exe
+\\mac\home\Documents\GitHub\CS-.NET-Course\Iteration\Iteration\bin\Debug\Iteration.pdb
+\\mac\home\Documents\GitHub\CS-.NET-Course\Iteration\Iteration\obj\Debug\Iteration.csproj.AssemblyReference.cache
+\\mac\home\Documents\GitHub\CS-.NET-Course\Iteration\Iteration\obj\Debug\Iteration.csproj.CoreCompileInputs.cache
+\\mac\home\Documents\GitHub\CS-.NET-Course\Iteration\Iteration\obj\Debug\Iteration.exe
+\\mac\home\Documents\GitHub\CS-.NET-Course\Iteration\Iteration\obj\Debug\Iteration.pdb
