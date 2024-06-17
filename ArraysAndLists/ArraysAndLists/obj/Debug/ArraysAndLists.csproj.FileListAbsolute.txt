@@ -1,0 +1,7 @@
+\\mac\home\Documents\GitHub\CS-.NET-Course\ArraysAndLists\ArraysAndLists\bin\Debug\ArraysAndLists.exe.config
+\\mac\home\Documents\GitHub\CS-.NET-Course\ArraysAndLists\ArraysAndLists\bin\Debug\ArraysAndLists.exe
+\\mac\home\Documents\GitHub\CS-.NET-Course\ArraysAndLists\ArraysAndLists\bin\Debug\ArraysAndLists.pdb
+\\mac\home\Documents\GitHub\CS-.NET-Course\ArraysAndLists\ArraysAndLists\obj\Debug\ArraysAndLists.csproj.AssemblyReference.cache
+\\mac\home\Documents\GitHub\CS-.NET-Course\ArraysAndLists\ArraysAndLists\obj\Debug\ArraysAndLists.csproj.CoreCompileInputs.cache
+\\mac\home\Documents\GitHub\CS-.NET-Course\ArraysAndLists\ArraysAndLists\obj\Debug\ArraysAndLists.exe
+\\mac\home\Documents\GitHub\CS-.NET-Course\ArraysAndLists\ArraysAndLists\obj\Debug\ArraysAndLists.pdb
