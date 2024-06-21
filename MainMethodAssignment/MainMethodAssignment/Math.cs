@@ -36,5 +36,14 @@ namespace MainMethodAssignment
 
             return c;
         }
+
+        public int SomeMath(int a, int b = 1)
+        {
+            int x = a * (12 * b);
+
+            Console.WriteLine("{0} X (12 X {1}) = {2}", a, b, x);
+
+            return x;
+        }
     }
 }
