@@ -1,0 +1,7 @@
+\\mac\home\Documents\GitHub\CS-.NET-Course\MainMethodAssignment\MainMethodAssignment\bin\Debug\MainMethodAssignment.exe.config
+\\mac\home\Documents\GitHub\CS-.NET-Course\MainMethodAssignment\MainMethodAssignment\bin\Debug\MainMethodAssignment.exe
+\\mac\home\Documents\GitHub\CS-.NET-Course\MainMethodAssignment\MainMethodAssignment\bin\Debug\MainMethodAssignment.pdb
+\\mac\home\Documents\GitHub\CS-.NET-Course\MainMethodAssignment\MainMethodAssignment\obj\Debug\MainMethodAssignment.csproj.AssemblyReference.cache
+\\mac\home\Documents\GitHub\CS-.NET-Course\MainMethodAssignment\MainMethodAssignment\obj\Debug\MainMethodAssignment.csproj.CoreCompileInputs.cache
+\\mac\home\Documents\GitHub\CS-.NET-Course\MainMethodAssignment\MainMethodAssignment\obj\Debug\MainMethodAssignment.exe
+\\mac\home\Documents\GitHub\CS-.NET-Course\MainMethodAssignment\MainMethodAssignment\obj\Debug\MainMethodAssignment.pdb
