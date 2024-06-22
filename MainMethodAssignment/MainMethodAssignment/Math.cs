@@ -21,7 +21,7 @@ namespace MainMethodAssignment
             // This line converts the Float into an int
             int b = (int)x;
 
-            Console.WriteLine("20.7645 * {0} = {1}", a, b);
+            
 
             return b;
         }
