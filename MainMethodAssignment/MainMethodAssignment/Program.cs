@@ -15,7 +15,7 @@ namespace MainMethodAssignment
 
             // Intstantiating the varaibles that will take in the user input for the first two operations
             int firstNum;
-            float secondNum;
+            decimal secondNum;
 
             int thirdNum, fourthNum;
 
@@ -28,9 +28,10 @@ namespace MainMethodAssignment
 
             // Math operation 2
             Console.WriteLine("Enter a number to use in some math operation:");
-            secondNum = float.Parse(Console.ReadLine());
+            secondNum = decimal.Parse(Console.ReadLine());
             // Calling the overlaoded method and sending the user input into the Method 
-            math.Operation(secondNum);
+            int b = math.Operation(secondNum);
+            Console.WriteLine("20.7645 * {0} = {1}", secondNum, b);
 
 
             // Math operation 2
@@ -64,6 +65,15 @@ namespace MainMethodAssignment
 
             math.SomeMath(thirdNum, fourthNum);
 
+
+
+            // Void method assignment 
+            Console.WriteLine("Enter a number to be sent to the void method ");
+            int fifthNum = Convert.ToInt32(Console.ReadLine());
+
+            Console.WriteLine("Enter another number to be sent to the void method ");
+            int sixthNum = Convert.ToInt32(Console.ReadLine());
+            math.MoreMath(fifthNum, sixthNum);
 
             Console.ReadLine();
         }
