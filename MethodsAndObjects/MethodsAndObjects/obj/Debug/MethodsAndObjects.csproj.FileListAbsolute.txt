@@ -1,0 +1,7 @@
+\\mac\home\Documents\GitHub\CS-.NET-Course\MethodsAndObjects\MethodsAndObjects\bin\Debug\MethodsAndObjects.exe.config
+\\mac\home\Documents\GitHub\CS-.NET-Course\MethodsAndObjects\MethodsAndObjects\bin\Debug\MethodsAndObjects.exe
+\\mac\home\Documents\GitHub\CS-.NET-Course\MethodsAndObjects\MethodsAndObjects\bin\Debug\MethodsAndObjects.pdb
+\\mac\home\Documents\GitHub\CS-.NET-Course\MethodsAndObjects\MethodsAndObjects\obj\Debug\MethodsAndObjects.csproj.AssemblyReference.cache
+\\mac\home\Documents\GitHub\CS-.NET-Course\MethodsAndObjects\MethodsAndObjects\obj\Debug\MethodsAndObjects.csproj.CoreCompileInputs.cache
+\\mac\home\Documents\GitHub\CS-.NET-Course\MethodsAndObjects\MethodsAndObjects\obj\Debug\MethodsAndObjects.exe
+\\mac\home\Documents\GitHub\CS-.NET-Course\MethodsAndObjects\MethodsAndObjects\obj\Debug\MethodsAndObjects.pdb
