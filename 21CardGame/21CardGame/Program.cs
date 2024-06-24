@@ -26,14 +26,12 @@ namespace _21CardGame
             //Console.WriteLine(cardTwo.Face + " of " + cardTwo.Suit);
 
 
-
             TwentyOneGame game = new TwentyOneGame();
+
+            
             game.Players = new List<string>() { "Jesse", "Adam", "Joe" };
             game.ListPlayers();
-            game.Play();
-            Console.ReadLine();
-            game.Dealer = "Jesse";
-            game.Name = "TwentyOne";
+         
 
 
             //// Creating a object of data type Deck

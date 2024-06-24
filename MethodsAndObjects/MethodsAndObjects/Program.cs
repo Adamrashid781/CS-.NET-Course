@@ -10,17 +10,20 @@ namespace MethodsAndObjects
     {
         static void Main(string[] args)
         {
-            Person person = new Person();
+            // Instantiating Person class
+            //Person person = new Person();
+
+            // Instantiating Employee class
             Employee employee = new Employee();
             employee.FirstName = "Sample";
             employee.LastName = "Student";
             employee.SayName();
 
 
-            person.FirstName = "Adam";
-            person.LastName = "Rashid";
+            //person.FirstName = "Adam";
+            //person.LastName = "Rashid";
 
-            person.SayName();
+            //person.SayName();
 
             Console.ReadLine();
         }

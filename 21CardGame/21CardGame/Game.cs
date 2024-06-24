@@ -6,18 +6,21 @@ using System.Threading.Tasks;
 
 namespace _21CardGame
 {
-    public class Game
+    public abstract class Game
     {
         public List<string> Players { get; set; }
         public string Name { get; set; }
         public string Dealer { get; set; }
-
-        public void ListPlayers()
+        // If we set a Method to be Abstract it means that every Class that inherits this Class will need to have that Method written
+        public abstract void Play();
+        // Virtual method inside of an abstract class means that this method gets inherited by another class but has the ability to be overridden
+        public virtual void ListPlayers()
         {
             foreach(string player in Players)
             {
                 Console.WriteLine(player);
             }
         }
+
     }
 }

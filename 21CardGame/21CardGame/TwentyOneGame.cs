@@ -8,9 +8,15 @@ namespace _21CardGame
 {
    public  class TwentyOneGame : Game
     {
-        public void Play()
+        // MUst use the override keyword when using an abstarct class
+        public override void Play()
         {
             throw new NotImplementedException();
+        }
+        public override void ListPlayers()
+        {
+            Console.WriteLine("21 players");
+            base.ListPlayers();
         }
     }
 }
