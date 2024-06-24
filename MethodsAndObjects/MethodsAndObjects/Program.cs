@@ -18,6 +18,7 @@ namespace MethodsAndObjects
             employee.FirstName = "Sample";
             employee.LastName = "Student";
             employee.SayName();
+            employee.Quit();
 
 
             //person.FirstName = "Adam";
