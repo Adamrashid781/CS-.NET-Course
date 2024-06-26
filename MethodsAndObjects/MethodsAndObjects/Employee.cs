@@ -16,12 +16,17 @@ namespace MethodsAndObjects
             Console.WriteLine("Program will now Quit... (No it wont)");
             //throw new NotImplementedException(); 
         }
+        public override void SayName()
+        {
+            Console.WriteLine("Name: {0} {1}.", this.FirstName, this.LastName);
+        }
 
         public static bool operator== (Employee one, Employee two)
         {
             if(one.Id == two.Id)
             {
                 Console.WriteLine("Both empployees have the same ID. This is not okay");
+                two.Quit(); 
                 return true;
             }
             else

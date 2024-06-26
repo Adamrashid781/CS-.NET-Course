@@ -12,9 +12,8 @@ namespace MethodsAndObjects
         public string LastName { get; set; }
 
 
-        public void SayName()
+        public virtual void SayName()
         {
-            Console.WriteLine("Name: {0} {1}.", this.FirstName, this.LastName); 
         }
 
     }
