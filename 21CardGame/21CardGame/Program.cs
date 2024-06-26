@@ -11,45 +11,30 @@ namespace _21CardGame
         static void Main(string[] args)
         {
 
-            // Creating a object of datatype Card
+            Game game = new TwentyOneGame();
+            game.Players = new List<Player>();
+            Player player = new Player();
+            player.Name = "Adam";
 
-            //Card cardOne = new Card();
+            game = game + player;
+            game = game - player;
 
-            //cardOne.Face = "Queen";
-            //cardOne.Suit = "Spades";
-
-            //Console.WriteLine(cardOne.Face + " of " + cardOne.Suit);
-            //Console.ReadLine();
-
-            //Card cardTwo = new Card();
-
-            //Console.WriteLine(cardTwo.Face + " of " + cardTwo.Suit);
+            // Creating a object of data type Deck
+            Deck deck = new Deck();
 
 
-            TwentyOneGame game = new TwentyOneGame();
-
-            
-            game.Players = new List<string>() { "Jesse", "Adam", "Joe" };
-            game.ListPlayers();
-         
+            deck.Shuffle(5);
+            // you can put named perameters
+            // deck = Shuffle(deck: deck, times: 5);
 
 
-            //// Creating a object of data type Deck
-            //Deck deck = new Deck();
-            
-            
-            //deck.Shuffle( 5);
-            //// you can put named perameters
-            //// deck = Shuffle(deck: deck, times: 5);
+            foreach (Card card in deck.Cards)
+            {
+                Console.WriteLine(card.Face + " of " + card.Suit);
+            }
+            Console.WriteLine(deck.Cards.Count);
 
 
-            //foreach (Card card in deck.Cards)
-            //{
-            //    Console.WriteLine(card.Face + " of " + card.Suit);
-            //}
-            //Console.WriteLine(deck.Cards.Count);
-
-            
 
 
 
