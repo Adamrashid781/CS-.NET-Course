@@ -12,13 +12,14 @@ namespace _21CardGame
         {
 
             Game game = new TwentyOneGame();
-            game.Players = new List<Player>();
+            game.Players = new List<Player>(); 
             Player player = new Player();
-            player.Name = "Adam";
-
-            game = game + player;
-            game = game - player;
-
+            Player player1 = new Player();
+            player0.Name = "Zuzu";
+            player1.Name = "Adam";
+            game = game + player0;
+            game = game + player1;
+            game = game - player0; 
             // Creating a object of data type Deck
             Deck deck = new Deck();
 

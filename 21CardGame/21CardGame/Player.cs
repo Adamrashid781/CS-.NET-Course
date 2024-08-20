@@ -9,7 +9,7 @@ namespace _21CardGame
     public class Player
     {
         public List<Card> Hand { get; set; }
-        public int Balance { get; set; }
+        public int Balance2 { get; set; }
         public string Name { get; set; }
         public bool isActivelyPlaying { get; set; }
 
@@ -17,12 +17,13 @@ namespace _21CardGame
         public static Game operator+ (Game game, Player player)
         {
             game.Players.Add(player);
-            return game; 
+            return game;
         }
+
         public static Game operator- (Game game, Player player)
         {
             game.Players.Remove(player);
-            return game; 
+            return game;
         }
     }
 

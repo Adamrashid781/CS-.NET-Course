@@ -28,7 +28,7 @@ namespace MethodsAndObjects
 
             bool isTrue = employee1.Id == employee2.Id;
 
-            Console.WriteLine(isTrue); 
+            Console.WriteLine(isTrue);  
 
             // Calling the Interface
             employee1.Quit();
