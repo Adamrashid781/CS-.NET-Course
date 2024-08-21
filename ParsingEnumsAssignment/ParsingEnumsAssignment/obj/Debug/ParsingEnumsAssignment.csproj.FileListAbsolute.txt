@@ -1,0 +1,7 @@
+\\Mac\Home\Documents\GitHub\CS-.NET-Course\ParsingEnumsAssignment\ParsingEnumsAssignment\bin\Debug\ParsingEnumsAssignment.exe.config
+\\Mac\Home\Documents\GitHub\CS-.NET-Course\ParsingEnumsAssignment\ParsingEnumsAssignment\bin\Debug\ParsingEnumsAssignment.exe
+\\Mac\Home\Documents\GitHub\CS-.NET-Course\ParsingEnumsAssignment\ParsingEnumsAssignment\bin\Debug\ParsingEnumsAssignment.pdb
+\\Mac\Home\Documents\GitHub\CS-.NET-Course\ParsingEnumsAssignment\ParsingEnumsAssignment\obj\Debug\ParsingEnumsAssignment.csproj.AssemblyReference.cache
+\\Mac\Home\Documents\GitHub\CS-.NET-Course\ParsingEnumsAssignment\ParsingEnumsAssignment\obj\Debug\ParsingEnumsAssignment.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\GitHub\CS-.NET-Course\ParsingEnumsAssignment\ParsingEnumsAssignment\obj\Debug\ParsingEnumsAssignment.exe
+\\Mac\Home\Documents\GitHub\CS-.NET-Course\ParsingEnumsAssignment\ParsingEnumsAssignment\obj\Debug\ParsingEnumsAssignment.pdb

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace _21CardGame
 {
-   public  class TwentyOneGame : Game, IWalkAway 
+   public  class TwentyOneGame : Game //,IWalkAway 
     {
         // MUst use the override keyword when using an abstarct class
         public override void Play()
