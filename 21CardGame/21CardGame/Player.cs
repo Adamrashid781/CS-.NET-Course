@@ -27,4 +27,10 @@ namespace _21CardGame
         }
     }
 
+    public struct Number
+    {
+        public decimal Amount { get; set; }
+
+    }
+
 }

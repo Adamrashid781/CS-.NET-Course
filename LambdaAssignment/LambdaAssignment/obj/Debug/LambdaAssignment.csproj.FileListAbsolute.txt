@@ -1,0 +1,7 @@
+\\Mac\Home\Documents\GitHub\CS-.NET-Course\LambdaAssignment\LambdaAssignment\bin\Debug\LambdaAssignment.exe.config
+\\Mac\Home\Documents\GitHub\CS-.NET-Course\LambdaAssignment\LambdaAssignment\bin\Debug\LambdaAssignment.exe
+\\Mac\Home\Documents\GitHub\CS-.NET-Course\LambdaAssignment\LambdaAssignment\bin\Debug\LambdaAssignment.pdb
+\\Mac\Home\Documents\GitHub\CS-.NET-Course\LambdaAssignment\LambdaAssignment\obj\Debug\LambdaAssignment.csproj.AssemblyReference.cache
+\\Mac\Home\Documents\GitHub\CS-.NET-Course\LambdaAssignment\LambdaAssignment\obj\Debug\LambdaAssignment.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\GitHub\CS-.NET-Course\LambdaAssignment\LambdaAssignment\obj\Debug\LambdaAssignment.exe
+\\Mac\Home\Documents\GitHub\CS-.NET-Course\LambdaAssignment\LambdaAssignment\obj\Debug\LambdaAssignment.pdb
