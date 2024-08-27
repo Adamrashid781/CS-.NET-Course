@@ -6,12 +6,23 @@ using System.Threading.Tasks;
 
 namespace _21CardGame
 {
-   public  class TwentyOneGame : Game //,IWalkAway 
+   public  class TwentyOneGame : Game, IWalkAway 
     {
-        // MUst use the override keyword when using an abstarct class
+        public TwentyOneDealer Dealer { get; set; }
+        // Must use the override keyword when using an abstarct class
         public override void Play()
         {
-            throw new NotImplementedException();
+            Dealer = new TwentyOneDealer();
+            foreach (Player player in Players)
+            {
+                player.Hand = new List<Card>();
+                player.Stay = false;
+            }
+            Dealer.Hand = new List<Card>();
+            Dealer.Stay = false;
+            Dealer.Deck = new Deck();
+
+            Console.WriteLine("Place your bet!");
         }
 
         public override void ListPlayers()

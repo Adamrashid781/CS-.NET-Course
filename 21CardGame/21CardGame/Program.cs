@@ -10,35 +10,40 @@ namespace _21CardGame
     {
         static void Main(string[] args)
         {
-            Deck deck = new Deck();
+            Console.WriteLine("Welcome to the Grand Hotel and Casino. lets start by telling me your name.");
+            string playerName = Console.ReadLine();
+            Console.WriteLine("And how much money did you bring today?");
+
+            int bank = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("hello, {0}. Would you like to join a game of 21 right now?", playerName);
+
+            string answer = Console.ReadLine().ToLower();
+            if(answer == "yes" || answer == "yeah" || answer == "y" || answer == "ya")
+            {
+                // creting the player object while passing into it the data of the player, their name and how much money they brough with them.
+                Player player = new Player(playerName, bank);
+                Game game = new TwentyOneGame();
+                game += player;
+                player.isActivelyPlaying = true;
+
+                while(player.isActivelyPlaying && player.Balance > 0)
+                {
+                    game.Play();
+                }
+                game -= player;
+                Console.WriteLine("Thank you for playing!");
+            }
+            Console.WriteLine("Feel free to look around the casino. Bye for now.")
 
             // int count = deck.Cards.Count(x => x.Face == Face.Ace);
 
             // List<Card> newList = deck.Cards.Where(x => x.Face == Face.King).ToList() ;
 
-            //foreach(Card card in newList)
-            //{
-            //    Console.WriteLine(card.Face);
-            //}
+            //List<int> numberlist = new List<int>() { 1, 2, 3, 535, 342, 23 };
+            //int sum = numberlist.Where(x => x > 20).Sum();
 
-            List<int> numberlist = new List<int>() { 1, 2, 3, 535, 342, 23 };
-            int sum = numberlist.Where(x => x > 20).Sum();
 
-            Console.WriteLine(sum);
             
-
-            //// Creating a object of data type Deck
-            //Deck deck = new Deck();
-            //deck.Shuffle(5);
-            //// you can put named perameters
-            //// deck = Shuffle(deck: deck, times: 5);
-
-
-            //foreach (Card card in deck.Cards)
-            //{
-            //    Console.WriteLine(card.Face + " of " + card.Suit);
-            //}
-            //Console.WriteLine(deck.Cards.Count);
             Console.ReadLine();
         }
 

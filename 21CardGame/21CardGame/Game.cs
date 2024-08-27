@@ -22,5 +22,10 @@ namespace _21CardGame
             }
         }
 
+        public void WalkAway(Player player)
+        {
+            throw new NotImplementedException();
+        }
+
     }
 }
