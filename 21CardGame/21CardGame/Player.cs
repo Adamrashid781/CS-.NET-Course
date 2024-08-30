@@ -14,7 +14,8 @@ namespace _21CardGame
             Balance = begginingBBalance;
             Name = name;
         }
-        public List<Card> Hand { get; set; }
+        private List<Card> _hand = new List<Card>(); 
+        public List<Card> Hand { get { return _hand; } set {  _hand = value;  } }
         public int Balance { get; set; }
         public string Name { get; set; }
         public bool isActivelyPlaying { get; set; }
@@ -30,7 +31,8 @@ namespace _21CardGame
             }
             else
             {
-                Balance -= amount; 
+                Balance -= amount;
+                return true; 
             }
 
         }

@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.IO; 
 
 namespace _21CardGame
 {
@@ -14,9 +15,16 @@ namespace _21CardGame
 
         public void Deal(List<Card> Hand)
         {
+
             // Line of code below will take the first card of the shuffled deck of cards and add it to the Hand List
             Hand.Add(Deck.Cards.First());
-            Console.WriteLine(Deck.Cards.First().ToString() + "\n");
+            string card = string.Format(Deck.Cards.First().ToString() + "\n");
+            Console.WriteLine(card);
+            using (StreamWriter file = new StreamWriter(@"\\Mac\Home\Desktop\Log.txt", true))
+            {
+                file.WriteLine(DateTime.Now);
+                file.WriteLine(card);
+            }
             // This line will remove the first item in the Deck list
             Deck.Cards.RemoveAt(0);
         }

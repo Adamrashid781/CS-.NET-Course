@@ -1,0 +1,7 @@
+\\mac\home\Documents\GitHub\CS-.NET-Course\InputAssignment\InputAssignment\bin\Debug\InputAssignment.exe.config
+\\mac\home\Documents\GitHub\CS-.NET-Course\InputAssignment\InputAssignment\bin\Debug\InputAssignment.exe
+\\mac\home\Documents\GitHub\CS-.NET-Course\InputAssignment\InputAssignment\bin\Debug\InputAssignment.pdb
+\\mac\home\Documents\GitHub\CS-.NET-Course\InputAssignment\InputAssignment\obj\Debug\InputAssignment.csproj.AssemblyReference.cache
+\\mac\home\Documents\GitHub\CS-.NET-Course\InputAssignment\InputAssignment\obj\Debug\InputAssignment.csproj.CoreCompileInputs.cache
+\\mac\home\Documents\GitHub\CS-.NET-Course\InputAssignment\InputAssignment\obj\Debug\InputAssignment.exe
+\\mac\home\Documents\GitHub\CS-.NET-Course\InputAssignment\InputAssignment\obj\Debug\InputAssignment.pdb

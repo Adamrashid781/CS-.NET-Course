@@ -27,9 +27,9 @@ namespace MethodsAndObjects
             employee2.Id = 2;
             employee2.SayName();
 
+            // Adding data to the lists with Method AddThing
             employee1.AddThing("Hello,");
             employee1.AddThing(" World");
-
             employee2.AddThing(2001);
             employee2.AddThing(2004);
 

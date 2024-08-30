@@ -8,9 +8,13 @@ namespace _21CardGame
 {
     public abstract class Game
     {
-        public List<Player> Players { get; set; }
+        private List<Player> _players = new List<Player>();
+        public List<Player> Players { get { return _players; } set { _players = value; } }
         public string Name { get; set; }
-        public string Dealer { get; set; }
+
+        private Dictionary<Player, int> _bets = new Dictionary<Player, int>();
+        public Dictionary<Player, int> Bets { get { return _bets; } set { _bets = value; } }
+        
         // If we set a Method to be Abstract it means that every Class that inherits this Class will need to have that Method written
         public abstract void Play();
         // Virtual method inside of an abstract class means that this method gets inherited by another class but has the ability to be overridden 
@@ -20,11 +24,6 @@ namespace _21CardGame
             {
                 Console.WriteLine(player.Name);
             }
-        }
-
-        public void WalkAway(Player player)
-        {
-            throw new NotImplementedException();
         }
 
     }

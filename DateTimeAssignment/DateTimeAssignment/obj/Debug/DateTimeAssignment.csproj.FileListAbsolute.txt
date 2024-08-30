@@ -1,0 +1,7 @@
+\\mac\home\Documents\GitHub\CS-.NET-Course\DateTimeAssignment\DateTimeAssignment\bin\Debug\DateTimeAssignment.exe.config
+\\mac\home\Documents\GitHub\CS-.NET-Course\DateTimeAssignment\DateTimeAssignment\bin\Debug\DateTimeAssignment.exe
+\\mac\home\Documents\GitHub\CS-.NET-Course\DateTimeAssignment\DateTimeAssignment\bin\Debug\DateTimeAssignment.pdb
+\\mac\home\Documents\GitHub\CS-.NET-Course\DateTimeAssignment\DateTimeAssignment\obj\Debug\DateTimeAssignment.csproj.AssemblyReference.cache
+\\mac\home\Documents\GitHub\CS-.NET-Course\DateTimeAssignment\DateTimeAssignment\obj\Debug\DateTimeAssignment.csproj.CoreCompileInputs.cache
+\\mac\home\Documents\GitHub\CS-.NET-Course\DateTimeAssignment\DateTimeAssignment\obj\Debug\DateTimeAssignment.exe
+\\mac\home\Documents\GitHub\CS-.NET-Course\DateTimeAssignment\DateTimeAssignment\obj\Debug\DateTimeAssignment.pdb

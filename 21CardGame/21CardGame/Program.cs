@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.IO;
 
 namespace _21CardGame
 {
@@ -10,6 +11,17 @@ namespace _21CardGame
     {
         static void Main(string[] args)
         {
+            //string text = "Here is some text";
+            //File.WriteAllText(@"\\Mac\Home\Desktop\Log.txt", text);
+            // string text = File.ReadAllText(@"\\Mac\Home\Desktop\Log.txt");
+
+            //DateTime yearOfBirth = new DateTime(1995, 5, 23, 8, 32, 45);
+            //DateTime YearOfGraduation = new DateTime(2013, 6, 1, 16, 34, 22);
+
+            //TimeSpan ageAtGraduation = YearOfGraduation - yearOfBirth;
+
+
+
             Console.WriteLine("Welcome to the Grand Hotel and Casino. lets start by telling me your name.");
             string playerName = Console.ReadLine();
             Console.WriteLine("And how much money did you bring today?");
@@ -33,7 +45,7 @@ namespace _21CardGame
                 game -= player;
                 Console.WriteLine("Thank you for playing!");
             }
-            Console.WriteLine("Feel free to look around the casino. Bye for now.")
+            Console.WriteLine("Feel free to look around the casino. Bye for now.");
 
             // int count = deck.Cards.Count(x => x.Face == Face.Ace);
 
