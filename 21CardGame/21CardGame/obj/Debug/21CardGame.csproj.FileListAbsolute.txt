@@ -1,7 +1,2 @@
-\\mac\home\Documents\GitHub\CS-.NET-Course\21CardGame\21CardGame\obj\Debug\21CardGame.csproj.AssemblyReference.cache
-\\mac\home\Documents\GitHub\CS-.NET-Course\21CardGame\21CardGame\obj\Debug\21CardGame.csproj.CoreCompileInputs.cache
-\\mac\home\Documents\GitHub\CS-.NET-Course\21CardGame\21CardGame\bin\Debug\21CardGame.exe.config
-\\mac\home\Documents\GitHub\CS-.NET-Course\21CardGame\21CardGame\bin\Debug\21CardGame.exe
-\\mac\home\Documents\GitHub\CS-.NET-Course\21CardGame\21CardGame\bin\Debug\21CardGame.pdb
-\\mac\home\Documents\GitHub\CS-.NET-Course\21CardGame\21CardGame\obj\Debug\21CardGame.exe
-\\mac\home\Documents\GitHub\CS-.NET-Course\21CardGame\21CardGame\obj\Debug\21CardGame.pdb
+\\Mac\Home\Documents\GitHub\CS-.NET-Course\21CardGame\21CardGame\obj\Debug\21CardGame.csproj.AssemblyReference.cache
+\\Mac\Home\Documents\GitHub\CS-.NET-Course\21CardGame\21CardGame\obj\Debug\21CardGame.csproj.CoreCompileInputs.cache

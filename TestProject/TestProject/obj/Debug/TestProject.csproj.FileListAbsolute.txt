@@ -1,0 +1,2 @@
+\\Mac\Home\Documents\GitHub\CS-.NET-Course\TestProject\TestProject\obj\Debug\TestProject.csproj.AssemblyReference.cache
+\\Mac\Home\Documents\GitHub\CS-.NET-Course\TestProject\TestProject\obj\Debug\TestProject.csproj.CoreCompileInputs.cache
