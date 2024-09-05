@@ -1,0 +1,6 @@
+\\Mac\Home\Documents\GitHub\CS-.NET-Course\Constructor_Assignment\Constructor_Assignment\bin\Debug\Constructor_Assignment.exe.config
+\\Mac\Home\Documents\GitHub\CS-.NET-Course\Constructor_Assignment\Constructor_Assignment\bin\Debug\Constructor_Assignment.exe
+\\Mac\Home\Documents\GitHub\CS-.NET-Course\Constructor_Assignment\Constructor_Assignment\bin\Debug\Constructor_Assignment.pdb
+\\Mac\Home\Documents\GitHub\CS-.NET-Course\Constructor_Assignment\Constructor_Assignment\obj\Debug\Constructor_Assignment.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\GitHub\CS-.NET-Course\Constructor_Assignment\Constructor_Assignment\obj\Debug\Constructor_Assignment.exe
+\\Mac\Home\Documents\GitHub\CS-.NET-Course\Constructor_Assignment\Constructor_Assignment\obj\Debug\Constructor_Assignment.pdb

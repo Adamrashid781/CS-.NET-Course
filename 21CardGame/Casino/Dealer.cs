@@ -20,6 +20,7 @@ namespace _21CardGame
             Hand.Add(Deck.Cards.First());
             string card = string.Format(Deck.Cards.First().ToString() + "\n");
             Console.WriteLine(card);
+            // This code will log the exact time every card is being dealt in the game and will write it o the Log.txt file
             using (StreamWriter file = new StreamWriter(@"\\Mac\Home\Desktop\Log.txt", true))
             {
                 file.WriteLine(DateTime.Now);

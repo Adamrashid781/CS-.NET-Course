@@ -8,6 +8,12 @@ namespace _21CardGame
 {
     public class Player
     {
+        // Constructor Chaining: This first constructor will always hit first if the player does not add a balance. 
+        // The player will pass their name when creating the constructor as refereenced in the Program, if they do not pass a int value
+        // the first constructor will pass the value of 100 to the second, chained constructor, and this will take both values and assign them
+        public Player(string name) : this(name, 100) 
+        { 
+        }
         public Player(String name, int begginingBBalance)
         {
             Hand = new List<Card>();
@@ -22,6 +28,7 @@ namespace _21CardGame
 
         public bool Stay { get; set; }
 
+        public Guid Id { get; set; }
         public bool Bet(int amount)
         {
             if(Balance - amount < 0)

@@ -1,6 +1,5 @@
 \\Mac\Home\Documents\GitHub\CS-.NET-Course\21CardGame\Casino\bin\Debug\Casino.dll
 \\Mac\Home\Documents\GitHub\CS-.NET-Course\21CardGame\Casino\bin\Debug\Casino.pdb
-\\Mac\Home\Documents\GitHub\CS-.NET-Course\21CardGame\Casino\obj\Debug\Casino.csproj.AssemblyReference.cache
 \\Mac\Home\Documents\GitHub\CS-.NET-Course\21CardGame\Casino\obj\Debug\Casino.csproj.CoreCompileInputs.cache
 \\Mac\Home\Documents\GitHub\CS-.NET-Course\21CardGame\Casino\obj\Debug\Casino.dll
 \\Mac\Home\Documents\GitHub\CS-.NET-Course\21CardGame\Casino\obj\Debug\Casino.pdb

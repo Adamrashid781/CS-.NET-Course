@@ -1,5 +1,5 @@
 ﻿using System;
-using Casino;
+using System.IO;
 
 namespace _21CardGame
 {
@@ -16,6 +16,11 @@ namespace _21CardGame
 
             //TimeSpan ageAtGraduation = YearOfGraduation - yearOfBirth;
 
+            //// part of Constructor Chaining
+            //Player player2 = new Player("Adam");
+
+            // Creating a Global Unique Identifier
+            //Guid identifier = Guid.NewGuid();
 
 
             Console.WriteLine("Welcome to the Grand Hotel and Casino. lets start by telling me your name.");
@@ -30,6 +35,12 @@ namespace _21CardGame
             {
                 // creting the player object while passing into it the data of the player, their name and how much money they brough with them.
                 Player player = new Player(playerName, bank);
+                player.Id = Guid.NewGuid();
+                // This code will write the users Guid to the file
+                using (StreamWriter file = new StreamWriter(@"\\Mac\Home\Desktop\Log.txt", true))
+                {
+                    file.WriteLine(player.Id);
+                }
                 Game game = new TwentyOneGame();
                 game += player;
                 player.isActivelyPlaying = true;
