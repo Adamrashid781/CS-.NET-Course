@@ -25,9 +25,22 @@ namespace _21CardGame
 
             Console.WriteLine("Welcome to the Grand Hotel and Casino. lets start by telling me your name.");
             string playerName = Console.ReadLine();
-            Console.WriteLine("And how much money did you bring today?");
 
-            int bank = Convert.ToInt32(Console.ReadLine());
+            bool validAnswer = false;
+            int bank = 0;
+            while (!validAnswer)
+            {
+                Console.WriteLine("And how much money did you bring today?");
+                validAnswer = int.TryParse(Console.ReadLine(), out bank);
+                if (!validAnswer)
+                {
+                    Console.WriteLine("Please enter Digits only, no decimals!");
+                }
+            }
+
+
+
+
             Console.WriteLine("hello, {0}. Would you like to join a game of 21 right now?", playerName);
 
             string answer = Console.ReadLine().ToLower();
@@ -47,7 +60,23 @@ namespace _21CardGame
 
                 while(player.isActivelyPlaying && player.Balance > 0)
                 {
-                    game.Play();
+                    try
+                    {
+                        game.Play();
+                    }
+                    catch (FraudException())
+                    {
+                        Console.WriteLine("Security! Kick this person out!");
+                        Console.ReadLine();
+                        return;
+                    }
+                    catch (Exception)
+                    {
+                        Console.WriteLine("An error occured, please contact your system admin.");
+                        Console.ReadLine();
+                        return;
+                    }
+                    
                 }
                 game -= player;
                 Console.WriteLine("Thank you for playing!");
