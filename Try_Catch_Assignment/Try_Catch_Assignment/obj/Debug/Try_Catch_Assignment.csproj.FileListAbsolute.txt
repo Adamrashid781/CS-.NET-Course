@@ -1,0 +1,7 @@
+\\Mac\Home\Documents\GitHub\CS-.NET-Course\Try_Catch_Assignment\Try_Catch_Assignment\bin\Debug\Try_Catch_Assignment.exe.config
+\\Mac\Home\Documents\GitHub\CS-.NET-Course\Try_Catch_Assignment\Try_Catch_Assignment\bin\Debug\Try_Catch_Assignment.exe
+\\Mac\Home\Documents\GitHub\CS-.NET-Course\Try_Catch_Assignment\Try_Catch_Assignment\bin\Debug\Try_Catch_Assignment.pdb
+\\Mac\Home\Documents\GitHub\CS-.NET-Course\Try_Catch_Assignment\Try_Catch_Assignment\obj\Debug\Try_Catch_Assignment.csproj.AssemblyReference.cache
+\\Mac\Home\Documents\GitHub\CS-.NET-Course\Try_Catch_Assignment\Try_Catch_Assignment\obj\Debug\Try_Catch_Assignment.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\GitHub\CS-.NET-Course\Try_Catch_Assignment\Try_Catch_Assignment\obj\Debug\Try_Catch_Assignment.exe
+\\Mac\Home\Documents\GitHub\CS-.NET-Course\Try_Catch_Assignment\Try_Catch_Assignment\obj\Debug\Try_Catch_Assignment.pdb

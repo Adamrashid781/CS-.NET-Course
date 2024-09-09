@@ -38,7 +38,8 @@ namespace _21CardGame
 
                 if (bet < 0)
                 {
-                    throw new FraudException ;
+                    // When you put a string in the new exception it will be sent into the Db
+                    throw new FraudException("Security! Kick this person out.") ;
                 }
                 
                 bool successfullyBet = player.Bet(bet);

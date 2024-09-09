@@ -4,10 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Casino
+namespace _21CardGame
 {
     // Define a custom exception class called FraudException that inherits from the base Exception class.
-    class FraudException : Exception
+    public class FraudException : Exception
     {
         // Default constructor for FraudException.
         // It calls the base class (Exception) constructor with no arguments.
