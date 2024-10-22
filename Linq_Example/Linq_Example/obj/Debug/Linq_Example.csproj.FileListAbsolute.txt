@@ -1,0 +1,6 @@
+\\Mac\Home\Documents\GitHub\CS-.NET-Course\Linq_Example\Linq_Example\bin\Debug\Linq_Example.exe.config
+\\Mac\Home\Documents\GitHub\CS-.NET-Course\Linq_Example\Linq_Example\bin\Debug\Linq_Example.exe
+\\Mac\Home\Documents\GitHub\CS-.NET-Course\Linq_Example\Linq_Example\bin\Debug\Linq_Example.pdb
+\\Mac\Home\Documents\GitHub\CS-.NET-Course\Linq_Example\Linq_Example\obj\Debug\Linq_Example.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\GitHub\CS-.NET-Course\Linq_Example\Linq_Example\obj\Debug\Linq_Example.exe
+\\Mac\Home\Documents\GitHub\CS-.NET-Course\Linq_Example\Linq_Example\obj\Debug\Linq_Example.pdb

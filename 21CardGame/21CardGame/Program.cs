@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 using System.Data;
 using System.Data.SqlClient;
 using System.IO;
@@ -168,7 +169,7 @@ namespace _21CardGame
                     exception.ExceptionType = reader["ExceptionType"].ToString();
                     exception.ExceptionMessage = reader["ExceptionMessage"].ToString();
                     exception.TimeStamp = Convert.ToDateTime(reader["TimeStamp"]);
-                    Exceptions.Add(Exceptions);
+                    Exceptions.Add(exception);
                 }
                 connection.Close();
             }
