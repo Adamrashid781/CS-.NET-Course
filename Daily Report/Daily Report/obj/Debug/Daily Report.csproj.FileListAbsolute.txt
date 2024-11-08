@@ -5,10 +5,3 @@ C:\Users\adam\source\repos\Daily Report\Daily Report\obj\Debug\Daily Report.cspr
 C:\Users\adam\source\repos\Daily Report\Daily Report\obj\Debug\Daily Report.csproj.CoreCompileInputs.cache
 C:\Users\adam\source\repos\Daily Report\Daily Report\obj\Debug\Daily Report.exe
 C:\Users\adam\source\repos\Daily Report\Daily Report\obj\Debug\Daily Report.pdb
-\\Mac\Home\Documents\GitHub\CS-.NET-Course\Daily Report\Daily Report\bin\Debug\Daily Report.exe.config
-\\Mac\Home\Documents\GitHub\CS-.NET-Course\Daily Report\Daily Report\bin\Debug\Daily Report.exe
-\\Mac\Home\Documents\GitHub\CS-.NET-Course\Daily Report\Daily Report\bin\Debug\Daily Report.pdb
-\\Mac\Home\Documents\GitHub\CS-.NET-Course\Daily Report\Daily Report\obj\Debug\Daily Report.csproj.AssemblyReference.cache
-\\Mac\Home\Documents\GitHub\CS-.NET-Course\Daily Report\Daily Report\obj\Debug\Daily Report.csproj.CoreCompileInputs.cache
-\\Mac\Home\Documents\GitHub\CS-.NET-Course\Daily Report\Daily Report\obj\Debug\Daily Report.exe
-\\Mac\Home\Documents\GitHub\CS-.NET-Course\Daily Report\Daily Report\obj\Debug\Daily Report.pdb
