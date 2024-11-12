@@ -12,7 +12,7 @@ using TechStoreInventory.Data;
 namespace TechStoreInventory.Migrations
 {
     [DbContext(typeof(InventoryContext))]
-    [Migration("20241109175138_InitialCreate")]
+    [Migration("20241112200426_InitialCreate")]
     partial class InitialCreate
     {
         /// <inheritdoc />
