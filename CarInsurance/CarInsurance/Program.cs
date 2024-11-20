@@ -1,6 +1,6 @@
 
 using Microsoft.EntityFrameworkCore;
-using CarInsurance.Data;
+using CarInsurance.Models;
 
 
 var builder = WebApplication.CreateBuilder(args);
@@ -8,7 +8,7 @@ var builder = WebApplication.CreateBuilder(args);
 // Add services to the container.
 builder.Services.AddControllersWithViews();
 
-builder.Services.AddDbContext<InsuranceContext>(options => options.UseSqlServer(builder.Configuration.GetConnectionString("CarInsuranceManager")))
+builder.Services.AddDbContext<InsuranceContext>(options => options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
 
 var app = builder.Build();
 

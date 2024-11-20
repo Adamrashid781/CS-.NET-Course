@@ -1,0 +1,36 @@
+﻿@model IEnumerable<CarInsurance.Models.Insuree>
+
+@{
+    ViewData["Title"] = "Admin";
+}
+
+
+<h1>Admin</h1>
+
+<h4>Insurees</h4>
+<hr />
+
+@if (Model != null && Model.Any())
+{
+    @foreach (var item in Model)
+    {
+        <dl Class="row">
+            <dt class="col-sm-2">
+                @Html.DisplayFor(modelItem => item.FirstName)
+            </dt>
+            <dt class="col-sm-2">
+                @Html.DisplayFor(modelItem => item.LastName)
+            </dt>
+            <dt class="col-sm-2">
+                @Html.DisplayFor(modelItem => item.EmailAddress)
+            </dt>
+            <dt class="col-sm-2">
+                @Html.DisplayFor(modelItem => item.Qoute)
+            </dt>
+
+        </dl>
+    }
+}
+
+else{<p>No Data Available.</p>}
+

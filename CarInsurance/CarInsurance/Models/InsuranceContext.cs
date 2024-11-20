@@ -1,15 +1,13 @@
 ﻿using Microsoft.EntityFrameworkCore;
-using CarInsurance.Models; 
 
-
-namespace CarInsurance.Data
+namespace CarInsurance.Models
 {
     public class InsuranceContext : DbContext
     {
         public InsuranceContext(DbContextOptions<InsuranceContext> options) : base(options)
-        { 
+        {
 
         }
-        public DbSet<Insuree> Insuree { get; set; }
+        public DbSet<Insuree> Insurees { get; set; }
     }
 }
