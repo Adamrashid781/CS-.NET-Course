@@ -1,0 +1,12 @@
+Z:\Users\adam\Desktop\GitHub\CS-.NET-Course\StudentAssignment\StudentAssignment\bin\Debug\StudentAssignment.exe.config
+Z:\Users\adam\Desktop\GitHub\CS-.NET-Course\StudentAssignment\StudentAssignment\bin\Debug\StudentAssignment.exe
+Z:\Users\adam\Desktop\GitHub\CS-.NET-Course\StudentAssignment\StudentAssignment\bin\Debug\StudentAssignment.pdb
+Z:\Users\adam\Desktop\GitHub\CS-.NET-Course\StudentAssignment\StudentAssignment\bin\Debug\EntityFramework.dll
+Z:\Users\adam\Desktop\GitHub\CS-.NET-Course\StudentAssignment\StudentAssignment\bin\Debug\EntityFramework.SqlServer.dll
+Z:\Users\adam\Desktop\GitHub\CS-.NET-Course\StudentAssignment\StudentAssignment\bin\Debug\EntityFramework.xml
+Z:\Users\adam\Desktop\GitHub\CS-.NET-Course\StudentAssignment\StudentAssignment\bin\Debug\EntityFramework.SqlServer.xml
+Z:\Users\adam\Desktop\GitHub\CS-.NET-Course\StudentAssignment\StudentAssignment\obj\Debug\StudentAssignment.csproj.AssemblyReference.cache
+Z:\Users\adam\Desktop\GitHub\CS-.NET-Course\StudentAssignment\StudentAssignment\obj\Debug\StudentAssignment.csproj.CoreCompileInputs.cache
+Z:\Users\adam\Desktop\GitHub\CS-.NET-Course\StudentAssignment\StudentAssignment\obj\Debug\StudentA.D1397CAB.Up2Date
+Z:\Users\adam\Desktop\GitHub\CS-.NET-Course\StudentAssignment\StudentAssignment\obj\Debug\StudentAssignment.exe
+Z:\Users\adam\Desktop\GitHub\CS-.NET-Course\StudentAssignment\StudentAssignment\obj\Debug\StudentAssignment.pdb
